@@ -1,1 +1,1 @@
-YAML reformat (#7669)
+Add missing single-line docstrings (#8362)
